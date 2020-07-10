@@ -1,0 +1,74 @@
+
+
+#logo-img {
+	width: 177px;
+}
+
+
+#patara-logo{
+    width: 30px
+}
+
+#kanye {   width: 450px}
+
+div {width:200px}
+
+
+h1 {width: 300px;
+    height: 25px;
+	font-size: 24px;
+    color: #5B0A91;
+    background-color: #eaeaea;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 30px 30px 30px 30px;
+    
+}
+
+
+
+p {font-size: 18px; 
+
+
+
+    color: darkblue;
+}
+
+
+div {
+
+    padding: 10px 10px
+    margin 10px
+}
+
+#poto {width: 200px
+}
+
+
+
+.inline-block {
+	display: inline-block;
+    padding: 10px 10px
+}
+
+li {
+	padding: 0px 10px; 
+}
+
+
+nav a {
+    color: inherit;
+    text-decoration: red;
+}
+
+
+nav a:hover {
+	opacity: 0.5;
+}
+
+
+h1:hover {
+ cursor: pointer;
+}
+
